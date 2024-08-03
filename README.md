@@ -15,7 +15,7 @@ Proceed steps:
 
 1. identify the source types of earning call for all public listing companies; (Youtube, Websites, Video/Audio)
 2. Use python library to link to earning call (Youtube channel, like Tesla)
-3. Use python command to read/extract (organziely) contents from Youtube to Text.
+3. Use python command to read/extract contents from Youtube to Text into organized and cataloged format.
 4. Upload company's last 4 quarters earning report and last quarters earning call full transcript into ChatGPT knowledge
 5. Use API connect to ChatGPT, read knowledge
 6. Collect investors and analyst questions from earning calls, forum, social medias
